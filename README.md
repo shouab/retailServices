@@ -30,7 +30,7 @@ Instructions to deploy and Test:
 	<user username="admin" password="admin" roles="manager-gui"/>
 	Note: this is because Tomcat will come by Default with No Users we need to add a user with role manager-gui to deploy our retailServices.war file.
 5. click on the link managerapp available on  http://localhost:8080/ it will prompt for user name and password Enter admin as username and admin as password.
-6. It will divert to Manager Application page now click on browse button available under WAR file to deploy Header now select the retailServices.war which is available at 	following location as part of my package.
+6. It will divert to Manager Application page now click on browse button available under WAR file to deploy Header now select the retailServices.war which is available at following location https://github.com/shouab/retailServices/blob/master/retailServices.war.
 7. Click the deploy package it will deploy the retailServices.war.
 8. Now the application is accessible on http://localhost:8080/
 9. Use Chrome Browser and add POSTMAN extension from https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en
